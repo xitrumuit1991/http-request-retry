@@ -1,0 +1,21 @@
+{
+  "name": "http-request-retry",
+  "version": "1.0.2",
+  "description": "request can retry if fail",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "http-request-retry",
+    "http-retry",
+    "request-retry",
+    "fetch-retry"
+  ],
+  "author": "nguyentvk",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.17.11",
+    "request": "2.88.0"
+  }
+}
